@@ -13,7 +13,8 @@ namespace Metotlar
         public void Hinzufügen(Urun urun)
         {
             Console.WriteLine("In den Warenkorb Gelegt: "+urun.Name);
-
+            //Dem Warenkorb hinzugefügt
+            //Zum Warenkorb erfolgreich
         }
 
         public void Hinzufügen2()
